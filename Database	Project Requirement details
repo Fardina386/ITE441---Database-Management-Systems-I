@@ -1,0 +1,38 @@
+Criteria:
+
+You are creating an application of your choice (your project must have admin panel). Design and createthe database to make it sufficient for your application. Group of 2-3 member
+1.	Create a document about your application.
+a.	Specify all the major information that have to be stored in the database
+b.	Specified the software function
+i.	Draw a sample program flow (program structure)
+2.	Design an ER according to your document
+3.	Create a UML model according to the ER diagram that you have
+4.	Create a database following your UML diagram
+5.	Prepare all the queries for all the software functions
+
+Documentation:
+
+Cover Page:
+
+Your store name
+
+All your group member name and ID
+
+Ch1: Introduction
+
+Introductionto your application. And what did you understand from the requirement.
+
+Ch2: Requirement
+
+Explain all the requirements.
+
+Ch3: Diagram
+
+  3.1	ER-Diagram
+
+  3.2	UML-Diagram Ch4: Queries
+  Crop an image of your application and specify part by part what is the queries for each function.
+
+Ch5: Discussion & Conclusion
+
+Explain the problem that you have during working on your project and what can be improve.
